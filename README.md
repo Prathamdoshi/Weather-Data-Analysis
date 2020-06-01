@@ -4,7 +4,7 @@
 The purpose of this project was to further master skills in `API Calls` and transforming the data into analyzable and insightful format. For this project, 500 random cities were generated and their weather data was collected using `openweathermapy`. This project also used `citipy` module to find the nearest cities based on the random combination of latitude and longitude generated.
 
 ## Objective
-This project's objective as to find relation between `Latitude` and different weather data variables such as `Temprature, Cloudiness, Wind Speed & Humidity`. By latitude, the data had the equator line as the point of reference. Overall, trying to measure the effect of equator on factos such as `Temprature, Cloudiness, Wind Speed`.
+This project's objective as to find relation between `Latitude` and different weather data variables such as `Temprature, Cloudiness, Wind Speed & Humidity`. By latitude, the data had the equator line as the point of reference. Overall, trying to measure the effect of equator on factors such as `Temprature, Cloudiness, Wind Speed`.
 
 ## Approach
 ```
@@ -36,25 +36,25 @@ This project's objective as to find relation between `Latitude` and different we
 
 `Provides answer to the question: Are cities near the equator hotter?`
 
-<img src="images/2.png" width="600" height="400" />
+<img src="Images/2.png" width="600" height="400" />
 
 **Scatter Plot: City Latitude vs. Cloudiness** The point of this chart was to see relationship between the closeness of city to the equator, `Latitude` against the `Cloudiness`. This graph will indicate if there is any strong relationship between the two variables. 
 
 `Provides answer to the question: Are cities near the equator cloudier?`
 
-<img src="images/3.png" width="600" height="400" />
+<img src="Images/3.png" width="600" height="400" />
 
 **Scatter Plot: City Latitude vs. Humidity** The point of this chart was to see relationship between the closeness of city to the equator, `Latitude` against the `Cloudiness`. This graph will indicate if there is any strong relationship between the two variables. 
 
 `Provides answer to the question: Are cities near the equator more humid?`
 
-<img src="images/4.png" width="600" height="400" />
+<img src="Images/4.png" width="600" height="400" />
 
 **Scatter Plot: City Latitude vs. Windspeed** The point of this chart was to see relationship between the closeness of city to the equator, `Latitude` against the `Cloudiness`. This graph will indicate if there is any strong relationship between the two variables. 
 
 `Provides answer to the question: Are cities near the equator windier?`
 
-<img src="images/5.png" width="600" height="400" />
+<img src="Images/5.png" width="600" height="400" />
 
 ## Conclusions
 * As expected, the weather becomes significantly warmer as one approaches the equator (0 Deg. Latitude). More interestingly, however, is the fact that the southern hemisphere tends to be warmer this time of year than the northern hemisphere. This may be due to the tilt of the earth.
